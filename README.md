@@ -8,7 +8,7 @@ A proposta foi criar um website com estrutura básica, utilizando as principais 
 
 O tema escolhido para o site foi Dragon Ball, permitindo explorar o conteúdo de forma criativa e divertida, enquanto as tags eram utilizadas de maneira contextual e semântica.
 
-![HTML5](/assets/goku.jpg)
+![GOKU](/assets/goku.jpg)
 
 Além de atender todos os requisitos técnicos propostos, o projeto também reforça a importância da estruturação e organização do código HTML.
 
